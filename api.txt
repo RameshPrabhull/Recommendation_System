@@ -1,3 +1,0 @@
-APIGateway : https://jwie2c4inb.execute-api.ap-south-1.amazonaws.com/dev/getSchemes
-schemesData csv: https://storage-abhiyan.s3.ap-south-1.amazonaws.com/schemes-data/schemes_data+-+Sheet1.csv
-ECR Image URI: 891377342234.dkr.ecr.ap-south-1.amazonaws.com/schemes/recommendation:v1
